@@ -4,7 +4,7 @@
    
 
 -  I’m pursuing the knowlegde to obtain a career in the field while cultivating a passion for the technology. I'd be happy to learn more from any project 
-   or mentor and get more acclimated to working in this field and with a team on github. At the moment I'm studying with The Odin Project and in the future    I'd like to branch out to more technologies like python and learn about fields like data science.
+   or mentor and get more acclimated to working in this field and with a team on github. In the future I'd like to branch out to more technologies like        python and learn about fields like data science.
 
 
 <!---
