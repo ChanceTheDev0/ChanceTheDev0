@@ -1,6 +1,6 @@
 -  Hi, my name's Chance I’m interested in advancing my skill set and moving forward in the world of technology.
 
--  I’m transitioning to web development. Ive completed a few courses on web development fundamentals, responsive web design, HTML, CSS, and Javascript.        Now I'm studying full stack javscript more in depth with The Odin Project. I've learned how to use git, github, Unix CLI, vscode, node.js, and browser      dev tools.  
+-  I’m transitioning to web development. Ive completed a few courses on web development fundamentals, responsive web design, HTML, CSS, and Javascript.        Now I'm studying full stack javscript more in depth with The Odin Project. I've learned how to use git, github, bash CLI, vscode, node.js, and browser      dev tools.  
    
 
 -  I’m pursuing the knowlegde to obtain a career in the field while cultivating a passion for the technology. I'd be happy to learn more from any project 
